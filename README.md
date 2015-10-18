@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # [new-coder](http://newcoder.io)
 
 New Coder tutorials: 5 life jackets to throw the new coder
@@ -61,3 +62,7 @@ If you get a `permission denied` message, you may need to change the file mode i
 (newcoder-website) $ chmod +x _local.sh
 (newcoder-website) $ ./_local.sh
 ```
+=======
+# DataVizPython
+This is my repo for pushing my cool data-visualization work.
+>>>>>>> 49e40cd97759f8d6500bfaffebf841dc53858667
